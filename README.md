@@ -1,9 +1,9 @@
 # NetworkTemplate
 
-C++
-C#
-node.js
-Python
+- C++
+- C#
+- node.js
+- Python
 
-Client / Server 
+Client / Server
 
